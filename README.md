@@ -1,4 +1,4 @@
-# NetGuard — Session10 Ex05
+# NetGuard — Session12 Ex05
 
 ## Thành phần
 - `NetGuard_Incident_Log.xlsx`: nhật ký hệ thống + cơ sở dữ liệu virus; AutoFilter và công thức VLOOKUP/TRIM.
